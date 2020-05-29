@@ -66,7 +66,7 @@ ilab_TestPlan.xlsx stores the expected results.
 ## Running the tests with TestNG
 
 ```bash
-The framwork currently support chrome and firefox browser. Browser can be specified in the ilab.properties file at selenium.browser.name. 
+The framework currently support chrome and firefox browser. Browser can be specified in the ilab.properties file at selenium.browser.name. 
 ```
 
 ```bash
