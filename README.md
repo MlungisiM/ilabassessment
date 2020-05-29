@@ -26,6 +26,8 @@ Download and Install:
 ```
 
 ## Framework
+Hybrid - Keyword driven and Data driven
+
 ### Tools and Technology used
 ```bash
 Web Testing Framework: Selenium Webdriver
